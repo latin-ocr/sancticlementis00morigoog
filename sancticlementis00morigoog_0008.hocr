@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sancticlementis00morigoog_0008.png"; bbox 0 0 4146 5578; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 503 4693 1671 4768">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 503 4693 1671 4768">
+     <span class='ocr_line' id='line_1_1' title="bbox 503 4693 1671 4768; baseline 0.001 -19"><span class='ocrx_word' id='word_1_1' title='bbox 503 4702 646 4753; x_wconf 85' lang='lat' dir='ltr'>BRVGIS.</span> <span class='ocrx_word' id='word_1_2' title='bbox 677 4705 699 4752; x_wconf 88' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_3' title='bbox 726 4704 1000 4754; x_wconf 76' lang='lat' dir='ltr'>TYPOGRAPHEO</span> <span class='ocrx_word' id='word_1_4' title='bbox 1021 4693 1202 4768; x_wconf 73' lang='lat' dir='ltr'>DESCLEE,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1231 4706 1280 4752; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1308 4703 1494 4754; x_wconf 85' lang='lat' dir='ltr'>BROUWER</span> <span class='ocrx_word' id='word_1_7' title='bbox 1522 4701 1567 4752; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1596 4703 1671 4751; x_wconf 92' lang='lat' dir='ltr'><strong>SOC.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2078 5572">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2078 5572">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2078 5572; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2078 5572; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
